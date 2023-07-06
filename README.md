@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db/hub)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://app.netlify.com/sites/heartfelt-cannoli-971362/deploys/64a753b70579060812adec31)
  
 
 ### Built with
